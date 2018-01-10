@@ -75,3 +75,4 @@ if wheel_chance == "remington 11-87":
   shot_one_shotty = int(input("Guess a number between 1 and 50 for your only shot"))
   if shotty_random == shot_one_shotty:  
     
+ 
